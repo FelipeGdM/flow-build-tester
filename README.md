@@ -4,7 +4,11 @@ A simple exemple of use of [Jest](https://jestjs.io/) testing framework with [fl
 
 Check the [presentation](./docs/Introdução%20a%20testes%20com%20workflow.pdf) about testing
 
+## Sample workflow
+
 ![Sample workflow](./docs/sample_blueprint.png)
+
+The blueprint is in **./blueprint/sistema_alunos.js**
 
 ## Dependencies
 
