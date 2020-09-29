@@ -2,6 +2,10 @@
 
 A simple exemple of use of [Jest](https://jestjs.io/) testing framework with [flow-build workflow engine](https://github.com/flow-build/engine)
 
+Check the [presentation](./docs/Introdução%20a%20testes%20com%20workflow.pdf) about testing
+
+![Sample workflow](./docs/sample_blueprint.png)
+
 ## Dependencies
 
 ```sh
@@ -16,9 +20,6 @@ npm -v
 
 ```sh
 npm test
-```
-
-```sh
 npm run test-watch
 ```
 
